@@ -1,3 +1,4 @@
+![logo](https://github.com/Ankush0111/Ankush0111/blob/main/banner_github.gif)
 <h1 align="center">Hi 👋, I'm Ankush Biswas</h1>
 <h3 align="center">A passionate Full Stack web developer from India</h3>
 
